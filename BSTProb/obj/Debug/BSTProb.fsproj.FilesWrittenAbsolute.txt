@@ -1,0 +1,7 @@
+/Users/Chris/Documents/Code Projects/F#/BSTprob/BSTProb/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.fs
+/Users/Chris/Documents/Code Projects/F#/BSTprob/BSTProb/bin/Debug/BSTProb.exe.config
+/Users/Chris/Documents/Code Projects/F#/BSTprob/BSTProb/bin/Debug/BSTProb.exe.mdb
+/Users/Chris/Documents/Code Projects/F#/BSTprob/BSTProb/bin/Debug/BSTProb.exe
+/Users/Chris/Documents/Code Projects/F#/BSTprob/BSTProb/obj/Debug/BSTProb.exe
+/Users/Chris/Documents/Code Projects/F#/BSTprob/BSTProb/obj/Debug/BSTProb.exe.mdb
+/Users/Chris/Documents/Code Projects/F#/BSTprob/BSTProb/bin/Debug/FSharp.Core.dll

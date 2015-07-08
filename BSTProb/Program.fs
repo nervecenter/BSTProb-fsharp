@@ -25,7 +25,7 @@ let KeyCost key height =
     key.prob * ( (double)height + 1.0 )
 
 let rec PrintTree tree =
-    printfn "Key %d with probability %f has children:" tree.ele.num tree.ele.prob
+    printfn "Key %d with prob: %f, cost: %f has children:" tree.ele.num tree.ele.prob tree.cost
     match tree.left with
     | Some t -> printfn "Left: %d" t.ele.num
     | None -> ()
