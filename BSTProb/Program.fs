@@ -1,5 +1,4 @@
-﻿// Learn more about F# at http://fsharp.net
-// See the 'F# Tutorial' project for more help.
+﻿// Copyright Chris Collazo 2015
 open System
 open System.Collections.Generic
 
@@ -81,6 +80,8 @@ let OptimalTree (keys : List<Key>) =
 [<EntryPoint>]
 let main argv = 
     let keys = new List<Key>()
+    // Add your keys, and their probabilities. OptimalTree will arrange them optimally,
+    // creating least cost tree structure based on the likelihood any leaf will be needed
     keys.Add({num = 1; prob = 0.25})
     keys.Add({num = 2; prob = 0.2})
     keys.Add({num = 3; prob = 0.05})
