@@ -1,8 +1,0 @@
-E:\Chris\Documents\Code Projects\F#\BSTProb\BSTProb\bin\Debug\BSTProb.exe.config
-E:\Chris\Documents\Code Projects\F#\BSTProb\BSTProb\bin\Debug\BSTProb.XML
-E:\Chris\Documents\Code Projects\F#\BSTProb\BSTProb\bin\Debug\BSTProb.exe
-E:\Chris\Documents\Code Projects\F#\BSTProb\BSTProb\bin\Debug\BSTProb.pdb
-E:\Chris\Documents\Code Projects\F#\BSTProb\BSTProb\bin\Debug\FSharp.Core.dll
-E:\Chris\Documents\Code Projects\F#\BSTProb\BSTProb\bin\Debug\FSharp.Core.xml
-E:\Chris\Documents\Code Projects\F#\BSTProb\BSTProb\obj\Debug\BSTProb.exe
-E:\Chris\Documents\Code Projects\F#\BSTProb\BSTProb\obj\Debug\BSTProb.pdb
